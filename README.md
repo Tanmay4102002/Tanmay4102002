@@ -27,5 +27,5 @@ I enjoy working across the stack — from crafting intuitive UIs to optimizing b
 
 📫 **Let’s Connect!**  
 - [LinkedIn](https://www.linkedin.com/in/tanmay-sabharwal/)  
-- [GitHub](https://github.com/Tanmay410)  
-- 📧 tanmaysabharwal76@gmail.com  
+- [GitHub](https://github.com/Tanmay4102002)  
+- 📧 tanmay.s@sparrowrms.in 
