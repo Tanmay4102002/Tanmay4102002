@@ -13,9 +13,6 @@ I enjoy working across the stack — from crafting intuitive UIs to optimizing b
 - **Other Tools:** QuestPDF, NPOI, Swagger, Postman, Tableau, Power BI, GitHub, VS Code, Visual Studio  
 
 📌 **Recent Highlights**  
-- 🧾 Automated **PDF & Word generation** with QuestPDF & NPOI at Sparrow Risk Management, reducing manual effort by 35%.  
-- 🛠 Built **Excel data uploaders** with validations, ensuring secure ingestion and reducing errors in production.  
-- ⚡ Designed **audit workflows** with controllers, DTOs, and jobs, improving compliance and reporting standards.  
 - 💬 Developed a **Reddit-like platform** with real-time chat, polls, and video calls using Node.js, React, and MiroTalk.  
 - 📦 Created **CloudFiler**, a file management system with Go, Redis, PostgreSQL, and AWS S3.  
 - 🤖 Built **Honereview**, a feedback platform powered by Hugging Face AI for real-time suggestions.  
